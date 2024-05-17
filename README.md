@@ -1,42 +1,18 @@
-# COSAHackathonTemplate
+# OSB-MDR - Collaboration Team
 
-This is a template for COSA workshops/open source projects which could be used to create new projects.
-
-## How to use this template (remove this section)
-
-You can copy this template and use this for your open source project, workshops, hackathons or similar where participants should contribute content. Please update the README and other files depending on your requirements, project description etc. You find various "How Tos" documents if you or your expected contributors are not familar with setting up and working with repositories. Feel free to remove no longer applicable ones for your own repository.
-
-You might want to checkout [makeareadme.com](https://www.makeareadme.com) to gain additional guidance and options for a typical README file.
-
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)
-
-**License**: This template is using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). So you can copy or fork this template without the need to reference. Keep attribution from CODE_OF_CONDUCT as this uses CC-BY-4.0. The license files contained are meant to be used for the final open source project you run.
-
-TODO:
-
-* update readme for your project needs, e.g. use CC0 or CC-BY-4.0 license
-* update LICENSE, [INCLUDE COPYRIGHT INSTANCE] -> e.g. Project XY, CDISC, John Doe
-* update CODE_OF_CONDUCT, [INSERT CONTACT METHOD] -> e.g. <example@example.com>
-* update CONTRIBUTION.md if you want to provide additional rules or guidances, for example naming conventions
-
-*-------------------------- DELETE EVERYTHIG ABOVE ---------------------------*
-
-
-# *NAME* 
-
-This repository should be used for the *Project/Workshop/Hackathon XY* to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
+This repository should be used for the *Collaboration team for the OpenStudyBuilder as MDR* project to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
 
 ## Description
 
-The main purpose of *Project Name* is to ....
+This [CDISC Open Source Alliance](https://cosa.cdisc.org/) (COSA) collaboration group is created to support the utilization and modification of the [OpenStudyBuilder](https://openstudybuilder.com/) open source solution as a Metadata Repository (MDR). 
 
-If possible use images as well.
-
-![Image Description](./images/placeholder.png)
+![Project Logo](./images/OSB-MDR-Logo_380.png)
 
 ## Contribution
 
-Contribution is very welcome. When you contribute to this repository you are doing so under the below licenses. Please checkout [Contribution](CONTRIBUTING.md) for additional information. All contributions must adhere to the following [Code of Conduct](CODE_OF_CONDUCT.md).
+Contribution is very welcome. Please use Pull Requests and participate in the Wiki.
+
+When you contribute to this repository you are doing so under the below licenses. Please checkout [Contribution](CONTRIBUTING.md) for additional information. All contributions must adhere to the following [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -56,7 +32,7 @@ When you re-use the source, keep or copy the license information also in the sou
 
 When you want to re-use and refer to the content, please do so like the following:
 
-> Content based on [Project XY (GitHub)](https://github.com/xy/xy) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+> Content based on [OSB-MDR project (GitHub)](https://github.com/cdisc-org/osb-mdr) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 
 
