@@ -2,6 +2,12 @@
 
 The OpenStudyBuilder Hub (OSB-Hub) is a collaboration team under the umbrella of the CDISC Open Source Alliance (COSA). Our mission is to support the utilization and enhancement of the OpenStudyBuilder open-source tool. Here, we not only collect valuable feedback and use-cases but also actively run focused projects. Join us to drive innovation forward through both community engagement and project execution.
 
+😊 Join us on Slack: [Invite](https://join.slack.com/t/osb-mdr/shared_invite/zt-2iwjqjg76-r0NW6pRH5GnGQQ~~izLc_A)
+
+💡Feedback on Use-Cases: [Discussions](https://github.com/cdisc-org/osb-hub/discussions/categories/use-cases)
+
+📚 Checkout progress: [Wiki](https://github.com/cdisc-org/osb-hub/wiki)
+
 ## Description
 
 This [CDISC Open Source Alliance](https://cosa.cdisc.org/) (COSA) collaboration team is created to support the utilization and modification of the [OpenStudyBuilder](https://openstudybuilder.com/) open source solution as a Metadata Repository (MDR). 
